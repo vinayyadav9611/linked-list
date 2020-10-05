@@ -1,6 +1,6 @@
 public class SinglyLinkedList {    
 
-    //Represent a node of the singly linked list    
+    //Represent a node of the SLL
 
     class Node{    
 
