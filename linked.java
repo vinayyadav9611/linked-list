@@ -22,7 +22,7 @@ public class SinglyLinkedList {
 
      
 
-    //Represent the head and tail of the singly linked list    
+    //Represent the head and tail of the SLL 
 
     public Node head = null;    
 
