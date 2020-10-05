@@ -30,7 +30,7 @@ public class SinglyLinkedList {
 
         
 
-    //addNode() will add a new node to the list    
+    //addNode() will add a new node to the SLL  
 
     public void addNode(int data) {    
 
